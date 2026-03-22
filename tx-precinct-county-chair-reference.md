@@ -427,6 +427,56 @@ This case has the potential to establish significant precedent on whether Texas 
 
 ---
 
+### Carrillo v. Bexar County Democratic Party (2019)
+
+**Court:** Bexar County District Court (Judges Sid Harle and Cathleen M. Stryker, 224th Civil District Court); no appellate proceeding.
+
+**Facts:**
+Following a factional power struggle within the Bexar County Democratic Party (BCDP), newly elected Chairwoman Monica Ramirez Alcantara convened a special meeting in March 2019 at which the county executive committee voted overwhelmingly to remove Secretary Garrett Mormando, Treasurer Stephanie Carrillo, Precinct Chair Adrian Flores (Precinct 4015), and approximately 12–30 additional precinct chairs. None of the ousted officials were present at the meeting. Alcantara had publicly accused the removed officials of money laundering, forgery, theft, fraud, and conspiracy, and stated she had provided financial records to the FBI. Bexar County Precinct 4 Commissioner Tommy Calvert separately called on the District Attorney to investigate Alcantara, alleging the removals violated the Texas Election Code and potentially the Voting Rights Act and Civil Rights Act, noting that Alcantara approved 100% of white precinct chair applicants but only 47% of Hispanic and 25% of Black applicants.
+
+**Legal Issues:**
+1. Whether the removals complied with **Tex. Elec. Code § 171.029** — which requires written notice, a statement of reasons, and a seven-day response window before a removal for abandonment is effective.
+2. Whether the removals complied with **BCDP bylaws and TDP Rules** governing officer and precinct chair removal procedures.
+3. Whether the county chair had unilateral authority to organize the removal votes without following required committee procedures.
+
+**Proceedings:**
+- **April 2019 — TRO (Judge Harle):** Issued a Temporary Restraining Order prohibiting Alcantara from calling new county executive committee meetings, removing additional precinct chairs, or appointing replacements, pending further proceedings.
+- **May 13, 2019 — Ruling (Judge Stryker):** Ruled that Alcantara had authority to remove the secretary and treasurer and to remove precinct chairs not residing in their precincts. Alcantara's counsel characterized this as supporting the chair's authority to manage the party.
+- **May 15–16, 2019 — Ruling on precinct chairs; partial settlement:** Judge Stryker determined that the precinct chair removals violated state law and party rules. Four precinct chairs were reinstated by agreement. Mormando and Carrillo voluntarily dismissed their claims. Judge Stryker declined to rule on whether Alcantara properly handled the officer removals, finding that issue outside her jurisdiction. No final signed order was entered at the time of last reporting.
+
+**Disposition:** Partial settlement. Four precinct chairs reinstated. Officer claims voluntarily dismissed. No appellate opinion issued.
+
+**Significance:**
+*Carrillo* enforces the **procedural floor** of Tex. Elec. Code § 171.029: a county chair cannot remove precinct chairs without following the statutory notice-and-response process, regardless of the underlying factional justification. The case also illustrates the limits of a county chair's authority — even a chair with a supermajority of committee support must comply with the Election Code's procedural requirements before a removal is effective.
+
+*Sources: SA Current (April 2019; May 2019); San Antonio Report (May 2019); KSAT (March 2019); WOAI/News4SA (May 2019)*
+
+---
+
+### Comparative Analysis: Rector and Carrillo
+
+| | **Rector (2024)** | **Carrillo (2019)** |
+|---|---|---|
+| **Jurisdiction** | Tarrant County (Republican) | Bexar County (Democratic) |
+| **Core dispute** | Party overriding a completed primary election result | Chair removing chairs/officers without following statutory procedures |
+| **Triggering act** | Party chair declared winner ineligible; refused to issue certificate of election | County chair held meeting and voted to remove officers and ~12–30 precinct chairs in absentia |
+| **Statutory hook** | First Amendment / freedom of association; no specific removal statute at issue | Tex. Elec. Code § 171.029 — notice and response requirements |
+| **Party rules hook** | Party eligibility determinations | BCDP bylaws and TDP Rules governing removal procedures |
+| **First Amendment raised?** | Yes — central to party's defense | Not as a formal claim; Election Code applied as binding floor |
+| **Judicial intervention** | Texas Supreme Court stay; active litigation | TRO; partial ruling that removals violated law; partial settlement |
+| **Who prevailed (interim)** | Party (stay order) | Individual chairs (reinstatement); officer claims unresolved |
+| **Published opinion?** | No final merits opinion | No appellate opinion |
+
+**Key doctrinal distinction:**
+
+*Rector* is a **First Amendment / separation of powers** case: the central question is whether courts may review a party's eligibility determination that overrides a primary election result. The party invokes its constitutional right of association as a shield against judicial review — testing the **upper bound** of party authority.
+
+*Carrillo* is a **statutory compliance** case: the chair's removal actions were evaluated against the specific procedural requirements of § 171.029 and party rules, which mandate written notice, stated reasons, and a response window before removal is effective. The First Amendment was not a viable defense because the dispute was about *how* the removal was done, not *whether* the party could remove someone — enforcing the **floor** below which party authority cannot go.
+
+Together, the two cases bracket the scope of party authority over precinct chairs: *Rector* tests whether a party can go above the Election Code to override election results; *Carrillo* confirms a party cannot go below the Election Code's procedural requirements when removing chairs.
+
+---
+
 ## 7. Quick Reference Summary
 
 ### Precinct Chair — Key Facts
@@ -517,8 +567,18 @@ This case has the potential to establish significant precedent on whether Texas 
 - **TDP Rules (2024):** https://docs.google.com/document/d/1vBuxQPp5MEDzl6ofmlKDxv5eeqdPJVY6bQ5w-K9V_xc/
 
 ### Case Law Sources
+
+**Rector v. Tarrant County Republican Party (2024)**
 - KERA News, *"Texas Supreme Court rules Tarrant GOP can fill precinct chair position for now as case continues"* (Sept. 9, 2024)
 - Texas Scorecard, *"Texas Supreme Court Sides With Tarrant County GOP in Dispute Over Freedom of Association"* (Sept. 2024)
+
+**Carrillo v. Bexar County Democratic Party (2019)**
+- SA Current, *"Judge Orders Bexar County Democratic Party Chair Not to Call Meetings or Dismiss More Precinct Heads"* (April 2019)
+- SA Current, *"Attorney for Dismissed Bexar County Democratic Party Precinct Chairs Says Judge Has Cleared Their Return"* (May 2019)
+- SA Current, *"Amid Control Struggle, Bexar County Democratic Party Votes to Remove Key Officials"* (March 2019)
+- San Antonio Report, *"Bexar Democrats Remain at Odds as Medina Loyalists Reinstated"* (May 2019)
+- KSAT, *"County Commissioner Calls on DA to Investigate Bexar County Democratic Party"* (March 27, 2019)
+- WOAI/News4SA, *"Bexar County Dems Will Be Allowed to Remove Treasurer, Secretary After Judge's Ruling"* (May 2019)
 
 ---
 
