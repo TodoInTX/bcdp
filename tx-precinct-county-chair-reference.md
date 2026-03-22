@@ -72,7 +72,7 @@ A county executive committee is established for each county in which a primary e
 
 **(f)** The state executive committee may adopt rules permitting county chairs or precinct chairs in certain counties to be elected by **plurality vote** rather than majority vote.
 
-*Sources: Texas Election Code § 171.022; texas.public.law/statutes/tex._election_code_section_171.022*
+*Source: Tex. Elec. Code § 171.022; https://statutes.capitol.texas.gov/Docs/EL/htm/EL.171.htm*
 
 ---
 
@@ -85,7 +85,7 @@ A county executive committee is established for each county in which a primary e
 1. more than one precinct chair resides in the changed precinct after the boundary change; or
 2. no precinct chair resides in the changed precinct after the boundary change.
 
-*Source: texas.public.law/statutes/tex._election_code_section_171.023*
+*Source: Tex. Elec. Code § 171.023; https://statutes.capitol.texas.gov/Docs/EL/htm/EL.171.htm*
 
 ---
 
@@ -105,7 +105,7 @@ A county executive committee is established for each county in which a primary e
 
 **(g)** The state executive committee may set a deadline for filling vacancies before nomination vacancies arise, but the deadline may not be later than the date the nomination vacancy occurred. This subsection does not apply if the committee has no members.
 
-*Source: texas.public.law/statutes/tex._election_code_section_171.024; codes.findlaw.com/tx/election-code/elec-sect-171-024.html*
+*Source: Tex. Elec. Code § 171.024; https://statutes.capitol.texas.gov/Docs/EL/htm/EL.171.htm*
 
 ---
 
@@ -123,7 +123,7 @@ A county executive committee is established for each county in which a primary e
   1. the person resides in an adjacent Texas county with a similar population; and
   2. the Secretary of State approves the appointment.
 
-*Source: texas.public.law/statutes/tex._election_code_section_171.025*
+*Source: Tex. Elec. Code § 171.025; https://statutes.capitol.texas.gov/Docs/EL/htm/EL.171.htm*
 
 ---
 
@@ -131,7 +131,7 @@ A county executive committee is established for each county in which a primary e
 
 A person may not participate in a county executive committee meeting as a **proxy**.
 
-*Source: texas.public.law/statutes/tex._election_code_section_171.026*
+*Source: Tex. Elec. Code § 171.026; https://statutes.capitol.texas.gov/Docs/EL/htm/EL.171.htm*
 
 ---
 
@@ -149,7 +149,7 @@ A person may not participate in a county executive committee meeting as a **prox
 
 **(f)** A permanent county executive committee is elected at the general primary election. Temporary members serve until the elected members assume office.
 
-*Source: law.justia.com/codes/texas/election-code/title-10/subtitle-b/chapter-171/subchapter-b/section-171-027/*
+*Source: Tex. Elec. Code § 171.027; https://statutes.capitol.texas.gov/Docs/EL/htm/EL.171.htm*
 
 ---
 
@@ -172,7 +172,7 @@ A person may not participate in a county executive committee meeting as a **prox
 
 *Effective Date: September 1, 2015 (Senate Bill 1072, 84th Legislature)*
 
-*Sources: texas.public.law/statutes/tex._election_code_section_171.029; codes.findlaw.com/tx/election-code/elec-sect-171-029.html*
+*Source: Tex. Elec. Code § 171.029; https://statutes.capitol.texas.gov/Docs/EL/htm/EL.171.htm*
 
 ---
 
@@ -196,7 +196,7 @@ A person may not participate in a county executive committee meeting as a **prox
 
 *Example (2024 cycle):* For the March 2024 primary, precinct chair applications had to be filed between September 12, 2023 and 6:00 p.m. on December 11, 2023.
 
-*Source: texas.public.law/statutes/tex._election_code_section_172.023; codes.findlaw.com/tx/election-code/elec-sect-172-023.html*
+*Source: Tex. Elec. Code § 172.023; https://statutes.capitol.texas.gov/Docs/EL/htm/EL.172.htm*
 
 ---
 
@@ -208,7 +208,7 @@ The separate paper ballot for precinct chair must conform to applicable standard
 
 The **Secretary of State** prescribes the form of the ballot for precinct chair consistent with this section.
 
-*Source: texas.public.law/statutes/tex._election_code_section_172.090; codes.findlaw.com/tx/election-code/elec-sect-172-090.html*
+*Source: Tex. Elec. Code § 172.090; https://statutes.capitol.texas.gov/Docs/EL/htm/EL.172.htm*
 
 ---
 
@@ -221,7 +221,7 @@ If a designee conducts the canvass on the county chair's behalf, the designee mu
 1. a member of the county executive committee; **or**
 2. if no committee member is available, a **resident of the county** served by the committee who is affiliated with the same political party.
 
-*Source: law.justia.com/codes/texas/2019/election-code/title-10/subtitle-b/chapter-172/subchapter-e/section-172-116/*
+*Source: Tex. Elec. Code § 172.116; https://statutes.capitol.texas.gov/Docs/EL/htm/EL.172.htm*
 
 ---
 
@@ -239,7 +239,7 @@ The notice must include:
 2. each precinct chair's **precinct number**; and
 3. each precinct officer's **phone number and email address**, if supplied by the officer.
 
-*Sources: law.justia.com/codes/texas/2023/election-code/title-10/subtitle-b/chapter-172/subchapter-e/section-172-118/; codes.findlaw.com/tx/election-code/elec-sect-172-118.html*
+*Source: Tex. Elec. Code § 172.118; https://statutes.capitol.texas.gov/Docs/EL/htm/EL.172.htm*
 
 ---
 
@@ -260,7 +260,7 @@ The notice must include:
 3. **Handling absence:** If the precinct chair is absent, any person eligible to participate in the convention may act as temporary chair.
 4. **Selection of other officers:** The convention shall select a convention chair (if the precinct chair is not the permanent chair) and a convention secretary. The convention may select any other officers it considers necessary.
 
-*Sources: law.justia.com/codes/texas/2019/election-code/title-10/subtitle-b/chapter-174/subchapter-b/section-174-025/; statutes.capitol.texas.gov/Docs/EL/htm/EL.174.HTM*
+*Source: Tex. Elec. Code § 174.025; https://statutes.capitol.texas.gov/Docs/EL/htm/EL.174.htm*
 
 ---
 
@@ -519,11 +519,6 @@ This case has the potential to establish significant precedent on whether Texas 
 ### Case Law Sources
 - KERA News, *"Texas Supreme Court rules Tarrant GOP can fill precinct chair position for now as case continues"* (Sept. 9, 2024)
 - Texas Scorecard, *"Texas Supreme Court Sides With Tarrant County GOP in Dispute Over Freedom of Association"* (Sept. 2024)
-
-### Secondary / Cross-Reference Sources
-- texas.public.law (individual statute sections)
-- codes.findlaw.com/tx/election-code/ (individual statute sections)
-- law.justia.com/codes/texas/election-code/ (individual statute sections)
 
 ---
 
